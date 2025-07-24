@@ -1,0 +1,4 @@
+Command Used:
+adb shell screencap -p /sdcard/screen.png
+adb pull /sdcard/screen.png
+Takes a screenshot of the current phone screen and saves it on the PC.

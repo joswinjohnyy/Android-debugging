@@ -1,0 +1,2 @@
+adb logcat *:E
+Filters logcat to show only error logs, making it easier to find crashes and serious issues.

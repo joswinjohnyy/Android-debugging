@@ -1,0 +1,3 @@
+Command Used:
+adb uninstall com.package.name
+Uninstalls the specified app from the phone using its package name.

@@ -1,0 +1,3 @@
+Command Used:
+adb logcat | findstr com.example.app
+Filters live logs from logcat to show only entries related to a specific app.

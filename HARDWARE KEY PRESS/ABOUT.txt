@@ -1,0 +1,2 @@
+adb shell input keyevent KEYCODE_HOME
+Simulates pressing a hardware key (like the Home button) via ADB, though this IS blocked on newer Android versions.

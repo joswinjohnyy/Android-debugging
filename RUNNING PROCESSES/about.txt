@@ -1,0 +1,4 @@
+Command Used:
+adb shell ps
+Displays all currently running processes on the phone, useful for checking app activity and resource usage.
+

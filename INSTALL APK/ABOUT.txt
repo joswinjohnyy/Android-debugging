@@ -1,0 +1,3 @@
+adb install "path/to/your_app.apk"
+Installs an APK file from the PC onto the connected Android phone.
+

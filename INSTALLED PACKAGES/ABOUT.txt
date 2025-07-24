@@ -1,0 +1,3 @@
+Command Used:
+adb shell pm list packages
+Lists all apps installed on the device by their package names.

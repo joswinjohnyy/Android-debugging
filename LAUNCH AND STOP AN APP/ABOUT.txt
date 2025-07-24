@@ -1,0 +1,4 @@
+Command Used:
+adb shell monkey -p com.package.name -c android.intent.category.LAUNCHER 1
+adb shell am force-stop com.package.name
+Starts an app using its package name and then force-stops it, simulating launch and close actions.

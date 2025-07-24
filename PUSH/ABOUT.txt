@@ -1,0 +1,3 @@
+Command Used:
+adb push ./file.txt /sdcard/file.txt
+Transfers a file from the PC to the phone, useful for testing or sending data to the device.

@@ -1,0 +1,2 @@
+Custom .bat script using multiple ADB commands.
+Automates the collection of logs, device info, app list, and screenshot into a timestamped folder

@@ -1,0 +1,5 @@
+adb logcat -d > logcat.txt
+adb shell dmesg > dmesg.txt
+Captures the system logs (logcat) and low-level kernel logs (dmesg) and saves them to files for debugging.
+log file is uploaded
+dmesg failed due to permission restrictions

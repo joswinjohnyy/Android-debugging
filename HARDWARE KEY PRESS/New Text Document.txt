@@ -1,3 +1,0 @@
-Starting from Android 12 and above, Google made ADB input events more secure
-
-Commands like adb shell input keyevent now require INJECT_EVENTS permission.

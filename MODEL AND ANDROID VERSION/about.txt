@@ -1,0 +1,4 @@
+adb shell getprop ro.product.model
+adb shell getprop ro.build.version.release
+Shows the phone’s model and Android OS version to help identify the connected device.
+
