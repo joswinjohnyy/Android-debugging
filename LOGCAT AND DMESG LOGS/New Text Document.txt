@@ -1,0 +1,2 @@
+log file is uploaded
+dmesg failed due to permission restrictions

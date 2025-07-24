@@ -1,0 +1,4 @@
+Model: 
+M2010J19CI
+Android Version: 
+12
